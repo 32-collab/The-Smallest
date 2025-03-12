@@ -2,7 +2,7 @@
 
 ##student information
 - **Name**: your Asresu Nigussie
--**student ID**: 2221/23
+-**student ID**:RMNS-2221/23
 -**course**: DSA
 
 Start: Begin the algorithm.
